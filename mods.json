@@ -24,4 +24,12 @@
     "isMelonLoader": false,
     "dependencies": []
   },
+    {
+    "name": "Airlock Client",
+    "developer": "YouTwbey",
+    "repo": "YouTwbey/AirlockClient",
+    "category": "Mod",
+    "isMelonLoader": false,
+    "dependencies": [ "AirlockAPI" ]
+  }
 ]
