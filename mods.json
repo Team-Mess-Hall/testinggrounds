@@ -31,5 +31,13 @@
     "category": "Mod",
     "isMelonLoader": false,
     "dependencies": [ "AirlockAPI" ]
+  },
+    {
+    "name": "test#24",
+    "developer": "null",
+    "repo": "null",
+    "category": "Mod",
+    "isMelonLoader": false,
+    "dependencies": [ "" ]
   }
 ]
