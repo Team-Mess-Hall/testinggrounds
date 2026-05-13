@@ -1,0 +1,35 @@
+[
+  {
+    "name": "MelonLoader",
+    "developer": "LavaGang",
+    "repo": "",
+    "category": "Core",
+    "isMelonLoader": true,
+    "description": "The mod loader required to run all mods. Must be installed first.",
+    "dependencies": []
+  },
+  {
+    "name": "MessHall API",
+    "developer": "Team-Mess-Hall",
+    "repo": "Team-Mess-Hall/MessHallAPI",
+    "category": "API",
+    "isMelonLoader": false,
+    "dependencies": []
+  },
+  {
+    "name": "AirlockAPI",
+    "developer": "YouTwbey",
+    "repo": "YouTwbey/AirlockAPI",
+    "category": "API",
+    "isMelonLoader": false,
+    "dependencies": []
+  },
+  {
+    "name": "Airlock Client",
+    "developer": "YouTwbey",
+    "repo": "YouTwbey/Airlock-Client",
+    "category": "Mods",
+    "isMelonLoader": false,
+    "dependencies": [ "YouTwbey/AirlockAPI" ]
+  }
+]
