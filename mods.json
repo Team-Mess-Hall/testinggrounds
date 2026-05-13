@@ -34,10 +34,10 @@
   },
   {
     "name": "testMod",
-    "developer": "YouTwbey",
-    "repo": "YouTwbey/AirlockClient",
+    "developer": "null",
+    "repo": "null",
     "category": "Mod",
     "isMelonLoader": false,
-    "dependencies": [ "AirlockAPI" ]
+    "dependencies": [ ]
   }
 ]
