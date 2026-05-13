@@ -31,7 +31,7 @@
     "category": "Mod",
     "isMelonLoader": false,
     "dependencies": [ "AirlockAPI" ]
-  }
+  },
   {
     "name": "testMod",
     "developer": "YouTwbey",
