@@ -32,4 +32,12 @@
     "isMelonLoader": false,
     "dependencies": [ "AirlockAPI" ]
   }
+  {
+    "name": "testMod",
+    "developer": "YouTwbey",
+    "repo": "YouTwbey/AirlockClient",
+    "category": "Mod",
+    "isMelonLoader": false,
+    "dependencies": [ "AirlockAPI" ]
+  }
 ]
